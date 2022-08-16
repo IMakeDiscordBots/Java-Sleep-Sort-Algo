@@ -16,7 +16,7 @@ $ cd Java-Sleep-Sort
 $ javac Thing.java
 
 # Run
-$ java Thing [numbers you'd like sorted, seperated by spaces]
+$ java Thing #followed by numbers you'd like sorted, seperated by spaces
 
 # e.g
 $ cd Java-Sleep-Sort
